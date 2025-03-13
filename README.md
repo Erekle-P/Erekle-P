@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Erekle! 👋
 
-<!--
-**Erekle-P/Erekle-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🏛️ Former Senior Attorney turned Software Engineer  
+- 💻 Passionate about **JavaScript, Python, and React**  
+- 🎓 Recently graduated from **Flatiron School's Software Engineering Bootcamp**  
+- 🔍 Actively seeking **junior software engineering roles**  
+- 🌱 Currently learning **React Native & Django**  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/erekle-papuashvili-727391b1/)  
+
+---
+
+🚀 *Excited to grow as a developer and build impactful solutions!*  
